@@ -16,8 +16,8 @@ const nextConfig = {
   // 出力先ディレクトリ
   distDir: 'out',
   // cssや画像などの静的ファイルのパスのプレフィックスなど
-  basePath: '/out',
-  assetsPrefix: './',
+  basePath: '/personal_site_by_next_js/out',
+  // assetsPrefix: './',
 };
 
 export default nextConfig;
