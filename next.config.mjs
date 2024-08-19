@@ -12,7 +12,6 @@ const nextConfig = {
   // cssや画像などの静的ファイルのパスのプレフィックスなど
   basePath: '/personal_site_by_next_js/out',
   // assetsPrefix: './',
-
 };
 
 export default nextConfig;
